@@ -22,6 +22,9 @@ My interests include:
   <img src="https://img.shields.io/badge/Assembly-6A6A6A?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
 </p>
+
+### Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=J27REPO&theme=dark&border_radius=6.2)](https://git.io/streak-stats)
 <!--
 **J27REPO/J27REPO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
