@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋, Im Jose Soeiro Fuillerat
+Computer Engineering student (Uniovi).
+My interests include:
+
+    Software Development
+    Artificial Intelligence
+    IT Infrastructure
+    Digital Marketing
 
 <!--
 **J27REPO/J27REPO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
