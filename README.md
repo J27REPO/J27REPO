@@ -27,7 +27,7 @@ My interests include:
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=J27REPO&theme=dark&border_radius=6.2)](https://git.io/streak-stats)
 
-Contact: **josesf2004@gmail.com**
+Contact with me: **josesf2004@gmail.com**
 <!--
 **J27REPO/J27REPO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
