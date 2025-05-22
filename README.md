@@ -22,6 +22,8 @@ My interests include:
   <img src="https://img.shields.io/badge/Assembly-6A6A6A?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
 </p>
+---
+Contact:**josesf2004@gmail.com**
 
 ### Stats
 ---
