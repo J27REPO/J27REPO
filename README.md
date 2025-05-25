@@ -21,6 +21,7 @@ My interests include:
   <img src="https://img.shields.io/badge/Racket-394FAC?style=for-the-badge&logo=racket&logoColor=white" alt="Racket"/>
   <img src="https://img.shields.io/badge/Assembly-6A6A6A?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
 </p>
 
 ### Stats
