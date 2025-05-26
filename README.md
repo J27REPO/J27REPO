@@ -1,6 +1,6 @@
 ## Hi ,my name is Jose Soeiro Fuillerat
----
-Computer Engineering student (Uniovi).
+
+##### Computer Engineering student (Uniovi).
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J27REPO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -17,7 +17,7 @@ My interests include:
 * IT Infrastructure
 * Digital Marketing
 ---
-###technologies i know 
+### technologies i know 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
