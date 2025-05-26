@@ -43,7 +43,7 @@ My interests include:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/J27REPO/J27REPO/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/J27REPO/J27REPO/snake.yml" alt="Snake animation" />
 
 ###
 
