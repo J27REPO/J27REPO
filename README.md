@@ -44,7 +44,7 @@ My interests include:
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/J27REPO/J27REPO/main/dist/github-snake.svg" alt="Snake animation" />
-
+![Snake animation](https://raw.githubusercontent.com/J27REPO/J27REPO/main/dist/github-snake.svg)
 ###
 
 Contact with me: **josesf2004@gmail.com**
