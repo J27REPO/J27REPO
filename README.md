@@ -1,5 +1,10 @@
-## Hi there , Im Jose Soeiro Fuillerat
-**Computer Engineering student (Uniovi).**
+## Hi ,my name is Jose Soeiro Fuillerat
+Computer Engineering student (Uniovi).
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=J27REPO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J27REPO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 ---
 ### ABOUT ME
 My interests include:
