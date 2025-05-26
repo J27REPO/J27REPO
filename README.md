@@ -42,7 +42,6 @@ My interests include:
 
 <img src="https://raw.githubusercontent.com/J27REPO/J27REPO/main/dist/github-snake.svg" alt="Snake animation" />
 
-###
 
 <div align="center">
 Get in touch: <a href="mailto:josesf2004@gmail.com">josesf2004@gmail.com</a>
