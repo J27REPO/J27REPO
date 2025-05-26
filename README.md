@@ -37,7 +37,8 @@ My interests include:
 
 ### Stats
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=J27REPO&theme=dark&border_radius=6.2)](https://git.io/streak-stats)
+
+<img src="https://raw.githubusercontent.com/J27REPO/J27REPO/output/snake.svg" alt="Snake animation" />
 
 Contact with me: **josesf2004@gmail.com**
 <!--
