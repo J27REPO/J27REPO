@@ -37,16 +37,16 @@ My interests include:
   <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
 </p>
 
-<div align="center">
-Get in touch: <a href="mailto:josesf2004@gmail.com">josesf2004@gmail.com</a>
-  
-</div>
-
 ###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/J27REPO/J27REPO/main/dist/github-snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+Get in touch: <a href="mailto:josesf2004@gmail.com">josesf2004@gmail.com</a>
+  
+</div>
 
 
