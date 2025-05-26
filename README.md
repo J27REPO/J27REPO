@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jose Soeiro Fuillerat
 
 ##### A **Computer Engineering** student at the [University of Oviedo (Uniovi)](https://www.uniovi.es).
-##### Passionate about technology and software development. 💻
+##### Passionate about technology. 💻
 
 ---
 <div align="center">
