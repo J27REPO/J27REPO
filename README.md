@@ -12,7 +12,7 @@
 
 ### ABOUT ME
 My interests include:
-<img align="right" height="150" src="https://media1.tenor.com/m/6REscN2u2kwAAAAd/razz-berserk.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/09SJ12pa9SkAAAAC/berserk.gif"  />
 * Software Development
 * Artificial Intelligence
 * IT Infrastructure
