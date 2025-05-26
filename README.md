@@ -1,6 +1,8 @@
-## Hi ,my name is Jose Soeiro Fuillerat
+## 👋 Hi, I'm Jose Soeiro Fuillerat
 
-##### Computer Engineering student (Uniovi).
+##### A **Computer Engineering** student at the @[University of Oviedo (Uniovi)](https://www.uniovi.es).
+##### Passionate about technology and software development. 💻
+
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J27REPO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
