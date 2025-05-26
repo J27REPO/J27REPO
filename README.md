@@ -37,7 +37,7 @@ My interests include:
 </p>
 
 <div align="center">
-Contact with me: [josesf2004@gmail.com](mailto:josesf2004@gmail.com)
+Contact with me: <a href="mailto:josesf2004@gmail.com">josesf2004@gmail.com</a>
   
 </div>
 
