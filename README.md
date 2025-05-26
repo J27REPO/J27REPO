@@ -36,18 +36,18 @@ My interests include:
   <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
 </p>
 
-### Stats
----
+<div align="center">
+Contact with me: **josesf2004@gmail.com**
+</div>
 
 ###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/J27REPO/J27REPO/main/dist/github-snake.svg" alt="Snake animation" />
 
 ###
 
-Contact with me: **josesf2004@gmail.com**
+
 <!--
 **J27REPO/J27REPO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
