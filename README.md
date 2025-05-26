@@ -12,7 +12,7 @@
 
 ### ABOUT ME
 My interests include:
-<img align="right" height="150" src="https://media1.tenor.com/m/1UhQ6m6SxtsAAAAd/toji-fushiguro-jujutsu-kaisen.gif"  />
+<img align="right" height="150" src="[https://media1.tenor.com/m/1UhQ6m6SxtsAAAAd/toji-fushiguro-jujutsu-kaisen.gif](https://media1.tenor.com/m/6REscN2u2kwAAAAd/razz-berserk.gif)"  />
 * Software Development
 * Artificial Intelligence
 * IT Infrastructure
